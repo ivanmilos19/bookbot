@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot project 
+BookBot my first project 
